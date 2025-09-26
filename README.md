@@ -6,6 +6,7 @@
 ###### Heading 6
 
 *This text is italic*
+
 _This text is also italic_
 
 This is a regular text.
